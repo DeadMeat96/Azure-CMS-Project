@@ -7,7 +7,7 @@
 - *Choose the appropriate solution (VM or App Service) for deploying the app*
 - *Justify your choice*
 
-## My aanalysis of VS vs WebApp
+## My analysis of VS vs WebApp
 ### VM IAAS (Infrastructure as a Service)
 
 - Costs: you basically pay based on teh sive of CPU/RAM whiel running, Typically the cost is fixed untless you add more VM's
