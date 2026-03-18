@@ -38,4 +38,4 @@ WebApps are more developer friendly and less reliant on older skill sets of serv
 
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
 
-- The key here would be more long term / scope change.  If the ask was for more storage or processing power such as using AI to analyze images, this would requirem mroe compute power than what would come standard with WebApp so spinnup up VM's may be more cost effective and more performant.
+- The key here would be more long term / scope change.  If the ask was for more storage or processing power such as using AI to analyze images, this would requirem more compute power than what would come standard with WebApp so spinnup up VM's may be more cost effective and more performant.
